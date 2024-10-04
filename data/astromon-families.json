@@ -1,5 +1,1257 @@
-[
-  ["mona", "monak", "monarch"],
-  ["wild", "wilder", "wildest"],
-  ["slim", "slime", "slimy"]
-]
+{
+  "sparkler": [
+    "sparkler",
+    "Sparkler",
+    "Wisp",
+    "Will-O-Wisp"
+  ],
+  "slime": [
+    "slime",
+    "Slime",
+    "Bouncer",
+    "King Slime"
+  ],
+  "mimic": [
+    "mimic",
+    "Mimic",
+    "Soulric",
+    "Goldric"
+  ],
+  "starrov": [
+    "starrov",
+    "Starrov",
+    "Starrock",
+    "Starroll"
+  ],
+  "arc": [
+    "arc",
+    "Arc",
+    "Chelon",
+    "Archelon"
+  ],
+  "lumo": [
+    "lumo",
+    "Lumo",
+    "Lumos",
+    "Lumina"
+  ],
+  "wumoo": [
+    "wumoo",
+    "Wumoo",
+    "Wumiu",
+    "Wumiura"
+  ],
+  "rowan": [
+    "rowan",
+    "Rowan",
+    "Alder",
+    "Arboreo"
+  ],
+  "squirrus": [
+    "squirrus",
+    "Squirrus",
+    "Squirrior",
+    "Esquirel"
+  ],
+  "mushi": [
+    "mushi",
+    "Mushi",
+    "Fungust",
+    "Sporefist"
+  ],
+  "bron": [
+    "bron",
+    "Bron",
+    "Brumby",
+    "Mustang"
+  ],
+  "gupp": [
+    "gupp",
+    "Gupp",
+    "Gold Gupp",
+    "Golphon"
+  ],
+  "moler": [
+    "moler",
+    "Moler",
+    "Diggron",
+    "Quarrik"
+  ],
+  "pinchee": [
+    "pinchee",
+    "Pinchee",
+    "Hornclaw",
+    "Crabigor"
+  ],
+  "cotteen": [
+    "cotteen",
+    "Cotteen",
+    "Cottaline",
+    "Cottontails"
+  ],
+  "tai": [
+    "tai",
+    "Tai",
+    "Taion",
+    "Lupeo"
+  ],
+  "robobot": [
+    "robobot",
+    "Robobot",
+    "Metalibot",
+    "Metaltron"
+  ],
+  "ghos": [
+    "ghos",
+    "Ghos",
+    "Spiritos",
+    "Phantos"
+  ],
+  "beecomb": [
+    "beecomb",
+    "Beecomb",
+    "Bumblebee",
+    "Bumbleking"
+  ],
+  "kilobat": [
+    "kilobat",
+    "Kilobat",
+    "Megabat",
+    "Gigabat"
+  ],
+  "monkiki": [
+    "monkiki",
+    "Monkiki",
+    "Tangurang",
+    "Bablune"
+  ],
+  "seastar": [
+    "seastar",
+    "Seastar",
+    "Staria",
+    "Kraken",
+    "<Ocean Queen> Seastar",
+    "<Ocean Queen> Kraken"
+  ],
+  "mona": [
+    "mona",
+    "Mona",
+    "Monak",
+    "Monarch",
+    "<Coral Knight> Mona",
+    "<Coral Knight> Monarch"
+  ],
+  "crowhook": [
+    "crowhook",
+    "Crowhook",
+    "Crowthorn",
+    "Captain Crow"
+  ],
+  "jellai": [
+    "jellai",
+    "Jellai",
+    "Jelliph",
+    "Jellion"
+  ],
+  "beth": [
+    "beth",
+    "Beth",
+    "Betty",
+    "Bethany"
+  ],
+  "seiren": [
+    "seiren",
+    "Seiren",
+    "Siren",
+    "Nereid",
+    "<Water Melody> Seiren",
+    "<Water Melody> Nereid"
+  ],
+  "mandragora": [
+    "mandragora",
+    "Mandragora",
+    "Mandrake",
+    "Moonflower"
+  ],
+  "miho": [
+    "miho",
+    "Miho",
+    "Ran",
+    "Horan",
+    "<Vulpiness> Ran",
+    "<Vulpiness> Horan"
+  ],
+  "latt": [
+    "latt",
+    "Latt",
+    "Lattrix",
+    "Theria"
+  ],
+  "seedler": [
+    "seedler",
+    "Seedler",
+    "Bloomae",
+    "Blossom"
+  ],
+  "cocomaru": [
+    "cocomaru",
+    "Cocomaru",
+    "Cocoro",
+    "Cocomon"
+  ],
+  "candling": [
+    "candling",
+    "Candling",
+    "Wicks",
+    "Lantra"
+  ],
+  "minicat": [
+    "minicat",
+    "Minicat",
+    "Pixicat",
+    "Meowings"
+  ],
+  "birdie": [
+    "birdie",
+    "Birdie",
+    "Galewing",
+    "Zephyr"
+  ],
+  "woolf": [
+    "woolf",
+    "Woolf",
+    "Woolfius",
+    "Canin"
+  ],
+  "cosmo": [
+    "cosmo",
+    "Cosmo",
+    "Estrella",
+    "Polaris"
+  ],
+  "colte": [
+    "colte",
+    "Colte",
+    "Stallicorn",
+    "Lordsmane"
+  ],
+  "hana": [
+    "hana",
+    "Hana",
+    "Hanami",
+    "Hanahime",
+    "<Sakura Princess> Hana",
+    "<Sakura Princess> Hanahime"
+  ],
+  "wildfang": [
+    "wildfang",
+    "Wildfang",
+    "Fenris",
+    "Fenrir",
+    "<Archwolf> Wildfang",
+    "<Archwolf> Fenrir"
+  ],
+  "banshee": [
+    "banshee",
+    "Banshee",
+    "Raven",
+    "Morrighan",
+    "<Dreadfay> Banshee",
+    "<Dreadfay> Morrighan"
+  ],
+  "victoria": [
+    "victoria",
+    "Victoria",
+    "Vicky",
+    "Nike",
+    "<Empyrean> Victoria",
+    "<Empyrean> Nike"
+  ],
+  "cupid": [
+    "cupid",
+    "Cupid",
+    "Amor",
+    "Eros",
+    "<Angel of Love> Cupid",
+    "<Angel of Love> Eros"
+  ],
+  "leo": [
+    "leo",
+    "Leo",
+    "Leon",
+    "Leonor",
+    "<Kingsblade> Leon",
+    "<Kingsblade> Leonor"
+  ],
+  "jeanne": [
+    "jeanne",
+    "Jeanne",
+    "Jeannette",
+    "Saint Jeanne",
+    "<Holy Templar> Jeanne",
+    "<Holy Templar> Saint Jeanne"
+  ],
+  "yuki": [
+    "yuki",
+    "Yuki",
+    "Yukiko",
+    "Yukina",
+    "<Boreal Queen> Yuki",
+    "<Boreal Queen> Yukina"
+  ],
+  "boltwing": [
+    "boltwing",
+    "Boltwing",
+    "Flashwing",
+    "Stormbeak",
+    "<Everflame> Boltwing",
+    "<Everflame> Stormbeak"
+  ],
+  "anu": [
+    "anu",
+    "Anu",
+    "Banuv",
+    "Anubis",
+    "<Psychopomp> Anu",
+    "<Psychopomp> Anubis"
+  ],
+  "arthur": [
+    "arthur",
+    "Arthur",
+    "Artorius",
+    "Arthur Pendragon",
+    "<True King> Arthur"
+  ],
+  "valkyrie": [
+    "valkyrie",
+    "Valkyrie",
+    "Grand Valkyrie",
+    "Sigrun",
+    "<Guardian of the Battlefield> Valkyrie"
+  ],
+  "persephone": [
+    "persephone",
+    "Persephone",
+    "Persephassa",
+    "Queen Persephone",
+    "<Queen of Hades> Persephone"
+  ],
+  "pebbol": [
+    "pebbol",
+    "Pebbol",
+    "Bouldir",
+    "Granitus"
+  ],
+  "shellie": [
+    "shellie",
+    "Shellie",
+    "Bombshell",
+    "Shellion"
+  ],
+  "succubus": [
+    "succubus",
+    "Succubus",
+    "Lily",
+    "Lilith",
+    "<Queen of Night> Succubus",
+    "<Queen of Night> Lilith"
+  ],
+  "cura": [
+    "cura",
+    "Cura",
+    "Elpis",
+    "Pandora",
+    "<Gift of the Goddess> Cura",
+    "<Gift of the Goddess> Pandora"
+  ],
+  "jinn": [
+    "jinn",
+    "Jinn",
+    "Shaytan",
+    "Ifrit"
+  ],
+  "jack-o-little": [
+    "jack-o-little",
+    "Jack-O-Little",
+    "Jack-O-Lantie",
+    "Jack-O-Lyn"
+  ],
+  "vampire": [
+    "vampire",
+    "Vampire",
+    "Vampire Duke",
+    "Nosferatu"
+  ],
+  "hunter": [
+    "hunter",
+    "Hunter",
+    "Nightstalker",
+    "Van Helsing",
+    "<Cold-Blooded Huntsman> Hunter",
+    "<Cold-Blooded Huntsman> Van Helsing"
+  ],
+  "nightmare": [
+    "nightmare",
+    "Nightmare",
+    "Midnight",
+    "Nyx",
+    "<Queen of the Abyss> Nightmare"
+  ],
+  "hermite": [
+    "hermite",
+    "Hermite",
+    "Chela",
+    "Molluspike"
+  ],
+  "gatito": [
+    "gatito",
+    "Gatito",
+    "Gatador",
+    "Muscateer"
+  ],
+  "rocky": [
+    "rocky",
+    "Rocky",
+    "Craggler",
+    "Stonelem"
+  ],
+  "sura": [
+    "sura",
+    "Sura",
+    "Asura",
+    "Varuna"
+  ],
+  "phibian": [
+    "phibian",
+    "Phibian",
+    "Phibius",
+    "Froske"
+  ],
+  "shiva": [
+    "shiva",
+    "Shiva",
+    "Mahadeva",
+    "Mahakala"
+  ],
+  "bellpup": [
+    "bellpup",
+    "Bellpup",
+    "Ribonette",
+    "Riboness"
+  ],
+  "manelant": [
+    "manelant",
+    "Manelant",
+    "Manetta",
+    "Manetera"
+  ],
+  "wormtail": [
+    "wormtail",
+    "Wormtail",
+    "Serpentail",
+    "Horntail"
+  ],
+  "roca": [
+    "roca",
+    "Roca",
+    "Rocass",
+    "Deroca"
+  ],
+  "tigar": [
+    "tigar",
+    "Tigar",
+    "Tigaron",
+    "Tigarus"
+  ],
+  "mera": [
+    "mera",
+    "Mera",
+    "Meradon",
+    "Chimera"
+  ],
+  "snowee": [
+    "snowee",
+    "Snowee",
+    "Snowena",
+    "Jill Frost"
+  ],
+  "odin": [
+    "odin",
+    "Odin",
+    "Wodan",
+    "Allmother Odin",
+    "<One-Eyed Sage> Odin"
+  ],
+  "loki": [
+    "loki",
+    "Loki",
+    "Loptr",
+    "Loki the Trickster",
+    "<God of Deceit> Loki",
+    "<God of Deceit> Loki the Trickster"
+  ],
+  "toadora": [
+    "toadora",
+    "Toadora",
+    "Lumtoad",
+    "Wartfrog"
+  ],
+  "indra": [
+    "indra",
+    "Indra",
+    "Devanam Indra",
+    "Sakra"
+  ],
+  "yaksha": [
+    "yaksha",
+    "Yaksha",
+    "Yakshini",
+    "Kubera"
+  ],
+  "truffel": [
+    "truffel",
+    "Truffel",
+    "Truffie",
+    "Chocolette"
+  ],
+  "medusa": [
+    "medusa",
+    "Medusa",
+    "Gorgon",
+    "Stheno"
+  ],
+  "nezha": [
+    "nezha",
+    "Nezha",
+    "Nezha Santaizi",
+    "Nalakuvara"
+  ],
+  "garuda": [
+    "garuda",
+    "Garuda",
+    "Suparna",
+    "Maha Garuda",
+    "<Ruler of the Azure Sky> Garuda"
+  ],
+  "siegfried": [
+    "siegfried",
+    "Siegfried",
+    "Sigurd",
+    "Dragonsbane Sigurd"
+  ],
+  "bon": [
+    "bon",
+    "Bon",
+    "Bonbon",
+    "Andy Cane"
+  ],
+  "venus": [
+    "venus",
+    "Venus",
+    "Aphros",
+    "Aphrodite"
+  ],
+  "pinolo": [
+    "pinolo",
+    "Pinolo",
+    "Nocchi",
+    "Pinocchio"
+  ],
+  "thor": [
+    "thor",
+    "Thor",
+    "Thunar",
+    "Thunder God, Thor"
+  ],
+  "balrona": [
+    "balrona",
+    "Balrona",
+    "Balrok",
+    "Balroxy"
+  ],
+  "sun-wukong": [
+    "sun-wukong",
+    "Sun Wukong",
+    "Monkey King",
+    "Qitian Dasheng",
+    "<The Way of the Emperor> Sun Wukong"
+  ],
+  "sanzang": [
+    "sanzang",
+    "Sanzang",
+    "Xuanzang",
+    "Xuanzang Dashi"
+  ],
+  "verde": [
+    "verde",
+    "Verde",
+    "Viridi",
+    "Druidess"
+  ],
+  "onmyoji": [
+    "onmyoji",
+    "Onmyoji",
+    "Great Onmyoji",
+    "Seimei"
+  ],
+  "shinobi": [
+    "shinobi",
+    "Shinobi",
+    "Hanzo",
+    "Hattori Hanzo",
+    "<Shadow Who Strikes> Shinobi"
+  ],
+  "gemini": [
+    "gemini",
+    "Gemini",
+    "Geminia",
+    "Gem & Mia"
+  ],
+  "artemis": [
+    "artemis",
+    "Artemis",
+    "Diana",
+    "Selene"
+  ],
+  "mari": [
+    "mari",
+    "Mari",
+    "Marianne",
+    "Ariana"
+  ],
+  "sparkitt": [
+    "sparkitt",
+    "Sparkitt",
+    "Sparkel",
+    "Sparkon"
+  ],
+  "yeti": [
+    "yeti",
+    "Yeti",
+    "Bigfoot",
+    "Sasquatch"
+  ],
+  "mino": [
+    "mino",
+    "Mino",
+    "Minotum",
+    "Taurus"
+  ],
+  "gargor": [
+    "gargor",
+    "Gargor",
+    "Gargoll",
+    "Gargolos"
+  ],
+  "penpen": [
+    "penpen",
+    "Penpen",
+    "Penki",
+    "Penarch"
+  ],
+  "otari": [
+    "otari",
+    "Otari",
+    "Otarinae",
+    "Otariphus"
+  ],
+  "nifa": [
+    "nifa",
+    "Nifa",
+    "Nifalie",
+    "Angelette"
+  ],
+  "mammont": [
+    "mammont",
+    "Mammont",
+    "Mammotus",
+    "Marodon"
+  ],
+  "wendigo": [
+    "wendigo",
+    "Wendigo",
+    "Wendigorn",
+    "Wendigorror"
+  ],
+  "radis": [
+    "radis",
+    "Radis",
+    "Ragarde",
+    "Radioth"
+  ],
+  "rabbitle": [
+    "rabbitle",
+    "Rabbitle",
+    "Rabbitort",
+    "Rabbitoise"
+  ],
+  "poseidon": [
+    "poseidon",
+    "Poseidon",
+    "Neptune",
+    "Ocean King Neptune"
+  ],
+  "pixie": [
+    "pixie",
+    "Pixie",
+    "Dryad",
+    "Daphne"
+  ],
+  "mini-seira": [
+    "mini-seira",
+    "Mini Seira",
+    "Apprentice Seira",
+    "Seira the Guide"
+  ],
+  "chloe": [
+    "chloe",
+    "Chloe",
+    "Cleo",
+    "Trixie"
+  ],
+  "canna": [
+    "canna",
+    "Canna",
+    "Canarie",
+    "Canariah"
+  ],
+  "dartagnan": [
+    "dartagnan",
+    "D'Artagnan",
+    "Charles D'Artagnan",
+    "Musketerrier"
+  ],
+  "incubus": [
+    "incubus",
+    "Incubus",
+    "Azel",
+    "Azazel"
+  ],
+  "rudolph": [
+    "rudolph",
+    "Rudolph",
+    "Rudoe",
+    "Noelle"
+  ],
+  "fennec": [
+    "fennec",
+    "Fennec",
+    "Fennim",
+    "Fenrauder"
+  ],
+  "grabag": [
+    "grabag",
+    "Grabag",
+    "Bundelle",
+    "Jubilee"
+  ],
+  "kiki": [
+    "kiki",
+    "Kiki",
+    "Kikka",
+    "Kikimora"
+  ],
+  "tanya": [
+    "tanya",
+    "Tanya",
+    "Tasha",
+    "Talia"
+  ],
+  "lucy": [
+    "lucy",
+    "Lucy",
+    "Lucia",
+    "Snow White",
+    "Tainted Snow White"
+  ],
+  "misha": [
+    "misha",
+    "Misha",
+    "Ursa",
+    "Grizzle"
+  ],
+  "flora": [
+    "flora",
+    "Flora",
+    "Florice",
+    "Florentia"
+  ],
+  "merlin": [
+    "merlin",
+    "Merlin",
+    "Myrddin",
+    "Myrddin Wyllt"
+  ],
+  "sherlock": [
+    "sherlock",
+    "Sherlock",
+    "Sherlock Holmes",
+    "Detective Sherlock"
+  ],
+  "lupin": [
+    "lupin",
+    "Lupin",
+    "Arsène Lupin",
+    "Elusive Thief, Lupin"
+  ],
+  "benjamin": [
+    "benjamin",
+    "Benjamin",
+    "Benji",
+    "Timekeeper Benji"
+  ],
+  "mowgli": [
+    "mowgli",
+    "Mowgli",
+    "Mowglyne",
+    "Mowglia"
+  ],
+  "ramu": [
+    "ramu",
+    "Ramu",
+    "Commis Ramu",
+    "Golden Ramu"
+  ],
+  "sphinx": [
+    "sphinx",
+    "Sphinx",
+    "Sphingein",
+    "Great Sphinx"
+  ],
+  "alpaca": [
+    "alpaca",
+    "Alpaca",
+    "Paca-paca",
+    "Shady Alpaca"
+  ],
+  "bulbie": [
+    "bulbie",
+    "Bulbie",
+    "Baaram",
+    "Barometz"
+  ],
+  "sand-wraith": [
+    "sand-wraith",
+    "Sand Wraith",
+    "Clay Revenant",
+    "Alluvium Hollow"
+  ],
+  "mini-tina": [
+    "mini-tina",
+    "Mini Tina",
+    "Apprentice Tina",
+    "Gemsmith Tina",
+    "Greedy Tina"
+  ],
+  "bast": [
+    "bast",
+    "Bast",
+    "Ubaste",
+    "Bastet"
+  ],
+  "draka": [
+    "draka",
+    "Draka",
+    "Drakar",
+    "Drakaness"
+  ],
+  "drowsey": [
+    "drowsey",
+    "Drowsey",
+    "Dormio",
+    "Somnus"
+  ],
+  "hades": [
+    "hades",
+    "Hades",
+    "Plouton",
+    "Dis Pater",
+    "<Dread Reaper> Hades"
+  ],
+  "beatel": [
+    "beatel",
+    "Beatel",
+    "Scarabeatel",
+    "Dynastes"
+  ],
+  "peyote": [
+    "peyote",
+    "Peyote",
+    "Peyotiph",
+    "Peyotem"
+  ],
+  "zarid": [
+    "zarid",
+    "Zarid",
+    "Zaridon",
+    "Zarilisk"
+  ],
+  "chiroptie": [
+    "chiroptie",
+    "Chiroptie",
+    "Chiroptel",
+    "Chiropton"
+  ],
+  "mildeu": [
+    "mildeu",
+    "Mildeu",
+    "Moldot",
+    "Fungor"
+  ],
+  "ammonore": [
+    "ammonore",
+    "Ammonore",
+    "Molluscore",
+    "Mortore"
+  ],
+  "pegasus": [
+    "pegasus",
+    "Pegasus",
+    "Pihassas",
+    "Bellerophon"
+  ],
+  "slime-soldier": [
+    "slime-soldier",
+    "Slime Soldier",
+    "Slime Knight",
+    "Slime Hero"
+  ],
+  "hohenheim": [
+    "hohenheim",
+    "Hohenheim",
+    "Van Hohenheim",
+    "Paracelsus"
+  ],
+  "zhu-bajie": [
+    "zhu-bajie",
+    "Zhu Bajie",
+    "Zhu Wuneng",
+    "Altar Keeper Bajie"
+  ],
+  "jiangshi": [
+    "jiangshi",
+    "Jiangshi",
+    "Jiangshi Scion",
+    "Jiangshi Empress"
+  ],
+  "sha-wujing": [
+    "sha-wujing",
+    "Sha Wujing",
+    "Sha Heshang",
+    "Golden Arhat Wujing"
+  ],
+  "knuckles": [
+    "knuckles",
+    "Knuckles"
+  ],
+  "sonic": [
+    "sonic",
+    "Sonic"
+  ],
+  "tails": [
+    "tails",
+    "Tails"
+  ],
+  "silver": [
+    "silver",
+    "Silver"
+  ],
+  "shadow": [
+    "shadow",
+    "Shadow"
+  ],
+  "mini-camilla": [
+    "mini-camilla",
+    "Mini Camilla",
+    "Apprentice Camilla",
+    "Great Merchant Camilla"
+  ],
+  "cherry": [
+    "cherry",
+    "Cherry",
+    "Cherrilyn",
+    "Cherry Anne"
+  ],
+  "enkidu": [
+    "enkidu",
+    "Enkidu",
+    "Harmonious Enkidu",
+    "Beastking Enkidu",
+    "<Symbol of Harmony> Enkidu"
+  ],
+  "mommy-shark": [
+    "mommy-shark",
+    "Mommy Shark"
+  ],
+  "daddy-shark": [
+    "daddy-shark",
+    "Daddy Shark"
+  ],
+  "grandma-shark": [
+    "grandma-shark",
+    "Grandma Shark"
+  ],
+  "grandpa-shark": [
+    "grandpa-shark",
+    "Grandpa Shark"
+  ],
+  "baby-shark": [
+    "baby-shark",
+    "Baby Shark",
+    "Cute Baby Shark",
+    "Adorable Baby Shark"
+  ],
+  "harlequin": [
+    "harlequin",
+    "Harlequin",
+    "Hellequin",
+    "Arlecchino"
+  ],
+  "griffin": [
+    "griffin",
+    "Griffin",
+    "Hippogriff",
+    "Royal Griffin"
+  ],
+  "emperato": [
+    "emperato",
+    "Emperato",
+    "Emperius",
+    "Emperio"
+  ],
+  "gilgamesh": [
+    "gilgamesh",
+    "Gilgamesh",
+    "Young King Gilgamesh",
+    "Heroic King Gilgamesh"
+  ],
+  "pip": [
+    "pip",
+    "Pip",
+    "Pippin",
+    "Pistia"
+  ],
+  "mini-zephyros": [
+    "mini-zephyros",
+    "Mini Zephyros",
+    "Apprentice Zephyros",
+    "Researcher Zephyros"
+  ],
+  "cernunnos": [
+    "cernunnos",
+    "Cernunnos",
+    "Carnonos",
+    "Karnon"
+  ],
+  "jormungandr": [
+    "jormungandr",
+    "Jormungandr",
+    "Midgardsormr",
+    "Leviathan"
+  ],
+  "scheherazade": [
+    "scheherazade",
+    "Scheherazade",
+    "Scheherazade the Oracle",
+    "Scheherazade the Guide"
+  ],
+  "jeon-woochi": [
+    "jeon-woochi",
+    "Jeon Woochi",
+    "Magus Jeon Woochi",
+    "Taoist Jeon Woochi",
+    "<Taoist of Elegance> Jeon Woochi"
+  ],
+  "aesir": [
+    "aesir",
+    "Aesir",
+    "Warrior Aesir",
+    "Viking Aesir"
+  ],
+  "mini-eve": [
+    "mini-eve",
+    "Mini Eve",
+    "Apprentice Eve",
+    "Egg Summoner Eve"
+  ],
+  "mirra": [
+    "mirra",
+    "Mirra",
+    "Mummy",
+    "Mirramouse"
+  ],
+  "ginger-cookie": [
+    "ginger-cookie",
+    "Ginger Cookie",
+    "Soldier Cookie Fairy",
+    "Nutcracker Doll"
+  ],
+  "glinda": [
+    "glinda",
+    "Glinda",
+    "Glinda the Witch",
+    "Glinda GoodWitch"
+  ],
+  "zeus": [
+    "zeus",
+    "Zeus",
+    "Jupiter",
+    "Supreme God Zeus"
+  ],
+  "easter-bunny": [
+    "easter-bunny",
+    "Easter Bunny",
+    "Shady Easter Rabbit",
+    "Moony Easter Rabbit"
+  ],
+  "midsummer-miho": [
+    "midsummer-miho",
+    "Midsummer Miho",
+    "Midsummer Ran",
+    "Midsummer Horan"
+  ],
+  "okeanos": [
+    "okeanos",
+    "Okeanos",
+    "Okeania",
+    "Queen Okeanos"
+  ],
+  "traveler-nezz": [
+    "traveler-nezz",
+    "Traveler Nezz",
+    "Adventurer Nezz",
+    "Explorer Nezz"
+  ],
+  "belial": [
+    "belial",
+    "Belial",
+    "Satanael",
+    "Beliar"
+  ],
+  "sariel": [
+    "sariel",
+    "Sariel",
+    "Sarakiel",
+    "Archangel Sariel"
+  ],
+  "crystal-puppy": [
+    "crystal-puppy",
+    "Crystal Puppy",
+    "Crystal Wormling",
+    "Crystal Dragon"
+  ],
+  "sundi": [
+    "sundi",
+    "Sundi",
+    "Sunday",
+    "Parfait"
+  ],
+  "coco": [
+    "coco",
+    "Coco",
+    "Cocorin",
+    "Cocoian"
+  ],
+  "beach-muse-seiren": [
+    "beach-muse-seiren",
+    "Beach Muse Seiren",
+    "Beach Muse Siren",
+    "Beach Muse Nereid"
+  ],
+  "carbuncle": [
+    "carbuncle",
+    "Carbuncle",
+    "Lunar Carbuncle",
+    "Mystic Carbuncle"
+  ],
+  "talos": [
+    "talos",
+    "Talos",
+    "Giga Talos",
+    "Omega Talos"
+  ],
+  "mini-yurika": [
+    "mini-yurika",
+    "Mini Yurika",
+    "Servant Yurika",
+    "Chaos Yurika"
+  ],
+  "ber": [
+    "ber",
+    "Ber",
+    "Berdia",
+    "Berdis"
+  ],
+  "tou": [
+    "tou",
+    "Tou",
+    "Toura",
+    "Touraton"
+  ],
+  "yeonoh": [
+    "yeonoh",
+    "Yeonoh",
+    "Prophet Yeonoh",
+    "Star Guardian Yeonoh"
+  ],
+  "laelaps": [
+    "laelaps",
+    "Laelaps",
+    "Sentinel Laelaps",
+    "Seeker Laelaps"
+  ],
+  "scheherazade-of-the-snowlands": [
+    "scheherazade-of-the-snowlands",
+    "Scheherazade of the Snowlands",
+    "Scheherazade of the Stars",
+    "Scheherazade of the Astral Body"
+  ],
+  "huwi": [
+    "huwi",
+    "Huwi",
+    "Huhu",
+    "Huah"
+  ],
+  "prajna": [
+    "prajna",
+    "Prajna",
+    "Immortal Prajna",
+    "Heavenly Deity Prajna"
+  ],
+  "summer-vacation-kiki": [
+    "summer-vacation-kiki",
+    "Summer Vacation Kiki",
+    "Summer Vacation Kikka",
+    "Summer Vacation Kikimora"
+  ],
+  "mini-benedict": [
+    "mini-benedict",
+    "Mini Benedict",
+    "Apprentice Benedict",
+    "Advisor Benedict"
+  ],
+  "aris": [
+    "aris",
+    "Aris",
+    "Aegis",
+    "Iris"
+  ],
+  "mini-gleem": [
+    "mini-gleem",
+    "Mini Gleem"
+  ],
+  "mini-holy-gleem": [
+    "mini-holy-gleem",
+    "Mini Holy Gleem"
+  ],
+  "gleem": [
+    "gleem",
+    "Gleem",
+    "Super Gleem"
+  ],
+  "holy-gleem": [
+    "holy-gleem",
+    "Holy Gleem",
+    "Super Holy Gleem"
+  ]
+}
