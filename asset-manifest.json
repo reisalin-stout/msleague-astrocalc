@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/msleague-astrocalc/static/css/main.d29dc037.css",
-    "main.js": "/msleague-astrocalc/static/js/main.c8b74862.js",
+    "main.css": "/msleague-astrocalc/static/css/main.aeac4445.css",
+    "main.js": "/msleague-astrocalc/static/js/main.129418b0.js",
     "static/js/453.e74c60c7.chunk.js": "/msleague-astrocalc/static/js/453.e74c60c7.chunk.js",
-    "static/media/Aesir3EvoD_large.png": "/msleague-astrocalc/static/media/Aesir3EvoD_large.c761d3a33025303ef89a.png",
     "index.html": "/msleague-astrocalc/index.html",
-    "main.d29dc037.css.map": "/msleague-astrocalc/static/css/main.d29dc037.css.map",
-    "main.c8b74862.js.map": "/msleague-astrocalc/static/js/main.c8b74862.js.map",
+    "main.aeac4445.css.map": "/msleague-astrocalc/static/css/main.aeac4445.css.map",
+    "main.129418b0.js.map": "/msleague-astrocalc/static/js/main.129418b0.js.map",
     "453.e74c60c7.chunk.js.map": "/msleague-astrocalc/static/js/453.e74c60c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d29dc037.css",
-    "static/js/main.c8b74862.js"
+    "static/css/main.aeac4445.css",
+    "static/js/main.129418b0.js"
   ]
 }
