@@ -1,3 +1,6 @@
+/* Import Bulma */
+@import "~bulma/css/bulma.css";
+
 .App {
   text-align: center;
 }
@@ -18,14 +21,15 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: inherit; /* Inherit color from parent, making links look like normal text */
+  text-decoration: none; /* Remove underline */
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +39,80 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* User defined styles */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #282c34; /* Match your header background */
+  color: white; /* Ensure text is white */
+  display: flex;
+  justify-content: center; /* Center body content horizontally */
+  /* Removed align-items for vertical centering */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  margin: 20px;
+  width: 100%; /* Ensure full width */
+  max-width: 800px; /* Optional: set a maximum width for better layout */
+}
+
+.title {
+  margin-bottom: 10px;
+  display: flex; /* Use flex to align the title and arrow */
+  align-items: center; /* Center vertically */
+}
+
+.arrow {
+  margin-left: 10px; /* Space between title and arrow */
+  font-size: 24px; /* Adjust size of the arrow */
+  transition: transform 0.3s ease; /* Smooth transition for rotation */
+}
+
+/* Style for arrow rotation */
+.title.open .arrow {
+  transform: rotate(180deg); /* Point down when open */
+}
+
+.table {
+  width: 60%;
+  min-width: 200px; /* Ensures a minimum width of 200px */
+  border-collapse: collapse;
+  transition: max-height 0.3s ease, opacity 0.3s ease; /* Transition for max-height and opacity */
+  overflow: hidden; /* Hide overflow for the sliding effect */
+  max-height: 0; /* Default to collapsed */
+  opacity: 0; /* Default to hidden */
+  display: block; /* Use block to take up space */
+}
+
+.table.visible {
+  max-height: 500px; /* Set to a value greater than expected max height of the content */
+  opacity: 1; /* Fully opaque when visible */
+  display: table; /* Display as a table when visible */
+}
+
+.table.hidden {
+  max-height: 0; /* Collapses to 0 height */
+  opacity: 0; /* Makes it transparent */
+  display: none; /* Prevents it from taking up space */
+}
+
+.cell {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center; /* Ensure text is centered in each cell */
+  /* Add these properties to vertically center the text */
+  display: flex; /* Use flexbox to align items */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.component-container {
+  margin-top: 20px; /* Ensure space between the toolbox and the component */
 }
