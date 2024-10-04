@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/msleague-astrocalc/static/css/main.f855e6bc.css",
-    "main.js": "/msleague-astrocalc/static/js/main.8d87d7ac.js",
+    "main.css": "/msleague-astrocalc/static/css/main.464f44ad.css",
+    "main.js": "/msleague-astrocalc/static/js/main.63d0a394.js",
     "static/js/453.e74c60c7.chunk.js": "/msleague-astrocalc/static/js/453.e74c60c7.chunk.js",
     "static/media/logo.svg": "/msleague-astrocalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/msleague-astrocalc/index.html",
-    "main.f855e6bc.css.map": "/msleague-astrocalc/static/css/main.f855e6bc.css.map",
-    "main.8d87d7ac.js.map": "/msleague-astrocalc/static/js/main.8d87d7ac.js.map",
+    "main.464f44ad.css.map": "/msleague-astrocalc/static/css/main.464f44ad.css.map",
+    "main.63d0a394.js.map": "/msleague-astrocalc/static/js/main.63d0a394.js.map",
     "453.e74c60c7.chunk.js.map": "/msleague-astrocalc/static/js/453.e74c60c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8d87d7ac.js"
+    "static/css/main.464f44ad.css",
+    "static/js/main.63d0a394.js"
   ]
 }
